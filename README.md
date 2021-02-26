@@ -15,7 +15,7 @@
 # TypeScript Microservice or Backend for Frontend with Node.js
 
 This Starter Kit Template can be the foundation of a TypeScript Node.js Microservice or Backend for Frontend.
-This will be used for the Cloud Native Toolkit workshop. Let's test it.
+This will be used for the Cloud Native Toolkit workshop. Let's test it yet again.
 
 
 
